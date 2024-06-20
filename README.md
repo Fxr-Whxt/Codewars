@@ -25,5 +25,9 @@ Python:
 [Pete, the baker](Python/Pete,%20the%20baker.py) - 5 kyu \
 [Maximum subarray sum](Python/Maximum%20subarray%20sum.py) - 5 kyu
 
+<h3>6 kyu</h3>
+
+[Your order, please]() - 6 kyu
+
 
 
