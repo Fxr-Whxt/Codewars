@@ -14,7 +14,12 @@ In this repository i save copies of the katas i`ve completed.
 ## List of completed katas:
 Python:
 
+<h3>4 kyu</h3>
+
 [Roman numerals helper](Python/romannumeralshelper.py) - 4 kyu \
+
+<h3>5 kyu</h3>
+
 [A Chain adding function](Python/A%20Chain%20adding%20function.py) - 5 kyu \
 [Simple string expansion](Python/Simple%20string%20expansion.py) - 5 kyu \
 [Pete, the baker](Python/Pete,%20the%20baker.py) - 5 kyu \
