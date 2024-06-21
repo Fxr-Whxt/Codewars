@@ -30,6 +30,7 @@ Python:
 [Your order, please](Python/Your%20order,%20please.py) - 6 kyu \
 [Counting Duplicates](Python/Counting%20Duplicates.py) - 6 kyu \
 [Stop gninnipS My sdroW!](Python/Stop%20gninnipS%20My%20sdroW!.py) 6 kyu \
+[Create Phone Number]
 
 
 
