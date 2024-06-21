@@ -27,7 +27,8 @@ Python:
 
 <h3>6 kyu</h3>
 
-[Your order, please](Python/Your%20order,%20please.py) - 6 kyu
+[Your order, please](Python/Your%20order,%20please.py) - 6 kyu \
+[Counting Duplicates]()
 
 
 
