@@ -43,6 +43,7 @@ In this repository i save copies of the katas i`ve completed.
 [Exes and Ohs](Python/Exes%20and%20Ohs.py) - 7 kyu \
 [Shortest Word](Python/Shortest%20Word.py) - 7 kyu \
 [Isograms](Python/Isograms.py) - 7 kyu \
+[Descending Order](Python/Descending%20Order.py) - 7 kyu
 
 
 
