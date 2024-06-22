@@ -14,20 +14,20 @@ In this repository i save copies of the katas i`ve completed.
 
 ## List of completed katas:
 
-## Python:
+### Python:
 
-<h3>4 kyu</h3>
+<h4>4 kyu</h4>
 
 [Roman numerals helper](Python/romannumeralshelper.py) - 4 kyu 
 
-<h3>5 kyu</h3>
+<h4>5 kyu</h4>
 
 [A Chain adding function](Python/A%20Chain%20adding%20function.py) - 5 kyu \
 [Simple string expansion](Python/Simple%20string%20expansion.py) - 5 kyu \
 [Pete, the baker](Python/Pete,%20the%20baker.py) - 5 kyu \
 [Maximum subarray sum](Python/Maximum%20subarray%20sum.py) - 5 kyu
 
-<h3>6 kyu</h3>
+<h4>6 kyu</h4>
 
 [Your order, please](Python/Your%20order,%20please.py) - 6 kyu \
 [Counting Duplicates](Python/Counting%20Duplicates.py) - 6 kyu \
@@ -35,7 +35,7 @@ In this repository i save copies of the katas i`ve completed.
 [Create Phone Number](Python/Create%20Phone%20Number.py) - 6 kyu \
 [Who likes it?](Python/Who%20likes%20it?.py) - 6 kyu \
 
-<h3>7 kyu</h3>
+<h4>7 kyu</h4>
 
 [Highest and Lowest](Python/Highest%20and%20Lowest.py) - 7 kyu \
 [Sum of two lowest positive integers](Python/Sum%20of%20two%20lowest%20positive%20integers.py) - 7 kyu \
@@ -46,9 +46,9 @@ In this repository i save copies of the katas i`ve completed.
 
 
 
-## SQL:
+### SQL:
 
-<h3>8 kyu</h3>
+<h4>8 kyu</h4>
 
 [Even or Odd](SQL/Even%20or%20Odd.sql) - 8 kyu
 
