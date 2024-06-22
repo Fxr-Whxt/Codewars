@@ -32,8 +32,11 @@ Python:
 [Counting Duplicates](Python/Counting%20Duplicates.py) - 6 kyu \
 [Stop gninnipS My sdroW!](Python/Stop%20gninnipS%20My%20sdroW!.py) 6 kyu \
 [Create Phone Number](Python/Create%20Phone%20Number.py) - 6 kyu \
-[Who likes it?](Python/Who%20likes%20it?.py) - 6 kyu 
-[Highest and Lowest]()
+[Who likes it?](Python/Who%20likes%20it?.py) - 6 kyu \
+
+<h3>7 kyu</h3>
+
+[Highest and Lowest](Python/Highest%20and%20Lowest.py) - 7 kyu 
 
 
 
