@@ -14,7 +14,7 @@ In this repository i save copies of the katas i`ve completed.
 
 ## List of completed katas:
 
-### Python:
+## Python:
 
 <h3>4 kyu</h3>
 
@@ -46,7 +46,7 @@ In this repository i save copies of the katas i`ve completed.
 
 
 
-### SQL:
+## SQL:
 
 <h3>8 kyu</h3>
 
