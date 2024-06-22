@@ -43,10 +43,13 @@ In this repository i save copies of the katas i`ve completed.
 [Exes and Ohs](Python/Exes%20and%20Ohs.py) - 7 kyu \
 [Shortest Word](Python/Shortest%20Word.py) - 7 kyu \
 [Isograms](Python/Isograms.py) - 7 kyu \
-[]
+
 
 
 ### SQL:
 
+<h3>8 kyu</h3>
+
+[Even or Odd](SQL/Even%20or%20Odd.sql) - 8 kyu
 
 
