@@ -36,7 +36,8 @@ Python:
 
 <h3>7 kyu</h3>
 
-[Highest and Lowest](Python/Highest%20and%20Lowest.py) - 7 kyu 
+[Highest and Lowest](Python/Highest%20and%20Lowest.py) - 7 kyu \
+[Sum of two lowest positive integers](Python/Sum%20of%20two%20lowest%20positive%20integers.py) - 7 kyu
 
 
 
