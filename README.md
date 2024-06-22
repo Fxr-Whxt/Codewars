@@ -18,7 +18,7 @@ In this repository i save copies of the katas i`ve completed.
 
 <h3>4 kyu</h3>
 
-[Roman numerals helper](Python/romannumeralshelper.py) - 4 kyu \
+[Roman numerals helper](Python/romannumeralshelper.py) - 4 kyu 
 
 <h3>5 kyu</h3>
 
@@ -42,7 +42,11 @@ In this repository i save copies of the katas i`ve completed.
 [You're a square!](Python/You're%20a%20square!.py) - 7 kyu \
 [Exes and Ohs](Python/Exes%20and%20Ohs.py) - 7 kyu \
 [Shortest Word](Python/Shortest%20Word.py) - 7 kyu \
-[Isograms](Python/Isograms.py) - 7 kyu 
+[Isograms](Python/Isograms.py) - 7 kyu \
+[]
+
+
+### SQL:
 
 
 
