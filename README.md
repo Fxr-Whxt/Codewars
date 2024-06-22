@@ -40,7 +40,8 @@ In this repository i save copies of the katas i`ve completed.
 [Highest and Lowest](Python/Highest%20and%20Lowest.py) - 7 kyu \
 [Sum of two lowest positive integers](Python/Sum%20of%20two%20lowest%20positive%20integers.py) - 7 kyu \
 [You're a square!](Python/You're%20a%20square!.py) - 7 kyu \
-[Exes and Ohs](Python/Exes%20and%20Ohs.py) - 7 kyu 
+[Exes and Ohs](Python/Exes%20and%20Ohs.py) - 7 kyu \
+[Shortest Word](Python/Shortest%20Word.py) - 7 kyu
 
 
 
