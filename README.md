@@ -48,6 +48,10 @@ In this repository i save copies of the katas i`ve completed.
 [List Filtering](Python/List%20Filtering.py) - 7 kyu \
 [Vowel Count](Python/Vowel%20Count.py) - 7 kyu
 
+<h4>8 kyu</h4>
+
+[Sum without highest and lowest number](Python/Sum%20without%20highest%20and%20lowest%20number.py) - 8 kyu \
+[Convert a Number to a String!](Python/Convert%20a%20Number%20to%20a%20String!.py) - 8 kyu \
 
 ### SQL:
 
