@@ -44,7 +44,9 @@ In this repository i save copies of the katas i`ve completed.
 [Shortest Word](Python/Shortest%20Word.py) - 7 kyu \
 [Isograms](Python/Isograms.py) - 7 kyu \
 [Descending Order](Python/Descending%20Order.py) - 7 kyu \
-[Disemvowel Trolls](Python/Disemvowel%20Trolls.py) -7 kyu
+[Disemvowel Trolls](Python/Disemvowel%20Trolls.py) - 7 kyu \
+[List Filtering](Python/List%20Filtering.py) - 7 kyu \
+[Vowel Count](Python/Vowel%20Count.py) - 7 kyu
 
 
 ### SQL:
