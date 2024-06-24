@@ -68,6 +68,6 @@ In this repository i save copies of the katas i`ve completed.
 <h4>8 kyu</h4>
 
 [Even or Odd](SQL/Even%20or%20Odd.sql) - 8 kyu \
-[Multiply](SQL) - 8 kyu
+[Multiply](SQL/Multiply.sql) - 8 kyu
 
 
