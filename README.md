@@ -46,7 +46,8 @@ In this repository i save copies of the katas i`ve completed.
 [Descending Order](Python/Descending%20Order.py) - 7 kyu \
 [Disemvowel Trolls](Python/Disemvowel%20Trolls.py) - 7 kyu \
 [List Filtering](Python/List%20Filtering.py) - 7 kyu \
-[Vowel Count](Python/Vowel%20Count.py) - 7 kyu
+[Vowel Count](Python/Vowel%20Count.py) - 7 kyu \
+[The Pony Express](Python/The%20Pony%20Express.py) - 7 kyu 
 
 <h4>8 kyu</h4>
 
