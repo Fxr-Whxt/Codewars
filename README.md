@@ -60,12 +60,14 @@ In this repository i save copies of the katas i`ve completed.
 [String repeat](Python/String%20repeat.py) - 8 kyu  \
 [Remove First and Last Character](Python/Remove%20First%20and%20Last%20Character.py) - 8 kyu \
 [Square(n) Sum](Python/Square(n)%20Sum.py) - 8 kyu \
-[Multiply](Python/Multiply.py) - 8 kyu
+[Multiply](Python/Multiply.py) - 8 kyu \
+[Even or Odd](Python/Even%20or%20Odd.py) - 8 kyu
 
 ### SQL:
 
 <h4>8 kyu</h4>
 
-[Even or Odd](SQL/Even%20or%20Odd.sql) - 8 kyu
+[Even or Odd](SQL/Even%20or%20Odd.sql) - 8 kyu \
+[Multiply]()
 
 
