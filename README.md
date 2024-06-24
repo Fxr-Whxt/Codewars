@@ -59,7 +59,8 @@ In this repository i save copies of the katas i`ve completed.
 [Sum of positive](Python/Sum%20of%20positive.py) - 8 kyu \
 [String repeat](Python/String%20repeat.py) - 8 kyu  \
 [Remove First and Last Character](Python/Remove%20First%20and%20Last%20Character.py) - 8 kyu \
-[Square(n) Sum](Python/Square(n)%20Sum.py) - 8 kyu
+[Square(n) Sum](Python/Square(n)%20Sum.py) - 8 kyu \
+[Multiply](Python/Multiply.py) - 8 kyu
 
 ### SQL:
 
