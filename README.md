@@ -54,7 +54,8 @@ In this repository i save copies of the katas i`ve completed.
 [Convert a Number to a String!](Python/Convert%20a%20Number%20to%20a%20String!.py) - 8 kyu \
 [Opposite number](Python/Opposite%20number.py) - 8 kyu \
 [Reversed Strings](Python/Reversed%20Strings.py) - 8 kyu \
-[Return Negative](Python/Return%20Negative.py) - 8 kyu 
+[Return Negative](Python/Return%20Negative.py) - 8 kyu \
+[Convert boolean values to strings 'Yes' or 'No'.](Python/Convert%20boolean%20values%20to%20strings%20'Yes'%20or%20'No'..py) - 8 kyu
 
 ### SQL:
 
