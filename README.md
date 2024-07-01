@@ -1,3 +1,5 @@
+<div align="center">
+
 # Codewars
 
  This is how i completed tasks from codewars, dont copy if u want become smarter
@@ -10,7 +12,7 @@ In this repository i save copies of the katas i`ve completed.
 
 ### Leveling in Codewars:
 
-<div align="center">
+
     <img src="assets/levels.png" alt="levels">
 
 
