@@ -1,6 +1,6 @@
 # Codewars
 
-This is how i completed tasks from codewars, dont copy if u want become smarter
+<center> This is how i completed tasks from codewars, dont copy if u want become smarter
 
 In this repository i save copies of the katas i`ve completed. 
 
@@ -10,7 +10,7 @@ In this repository i save copies of the katas i`ve completed.
 
 ### Leveling in Codewars:
 
-![Levels](https://github.com/Fxr-Whxt/Codewars/blob/main/assets/levels.png)
+<img src="assets/levels.png" alt="levels">
 
 ## List of completed katas:
 
@@ -72,4 +72,10 @@ In this repository i save copies of the katas i`ve completed.
 [Even or Odd](SQL/Even%20or%20Odd.sql) - 8 kyu \
 [Multiply](SQL/Multiply.sql) - 8 kyu
 
+
+
+
+
+
+</center>
 
