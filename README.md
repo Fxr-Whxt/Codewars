@@ -1,6 +1,6 @@
 # Codewars
 
-<center> This is how i completed tasks from codewars, dont copy if u want become smarter
+ This is how i completed tasks from codewars, dont copy if u want become smarter
 
 In this repository i save copies of the katas i`ve completed. 
 
@@ -10,7 +10,9 @@ In this repository i save copies of the katas i`ve completed.
 
 ### Leveling in Codewars:
 
+<center>
 <img src="assets/levels.png" alt="levels">
+</center>
 
 ## List of completed katas:
 
@@ -77,5 +79,5 @@ In this repository i save copies of the katas i`ve completed.
 
 
 
-</center>
+
 
