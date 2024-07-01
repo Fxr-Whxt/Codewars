@@ -13,7 +13,7 @@ In this repository i save copies of the katas i`ve completed.
 ### Leveling in Codewars:
 
 
-    <img src="assets/levels.png" alt="levels">
+<img src="assets/levels.png" alt="levels">
 
 
 ## List of completed katas:
