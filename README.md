@@ -20,6 +20,10 @@ In this repository i save copies of the katas i`ve completed.
 
 ### Python:
 
+<h4>3 kyu<h4>
+
+[Alphabetic Anagrams]() - 3 kyu
+
 <h4>4 kyu</h4>
 
 [Roman numerals helper](Python/romannumeralshelper.py) - 4 kyu 
