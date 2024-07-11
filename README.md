@@ -22,7 +22,7 @@ In this repository i save copies of the katas i`ve completed.
 
 <h4>3 kyu<h4>
 
-[Alphabetic Anagrams]() - 3 kyu
+[Alphabetic Anagrams](Python/Alphabetic%20Anagrams.py) - 3 kyu
 
 <h4>4 kyu</h4>
 
