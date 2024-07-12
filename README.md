@@ -22,7 +22,8 @@ In this repository i save copies of the katas i`ve completed.
 
 <h4>3 kyu<h4>
 
-[Alphabetic Anagrams](Python/Alphabetic%20Anagrams.py) - 3 kyu
+[Alphabetic Anagrams](Python/Alphabetic%20Anagrams.py) - 3 kyu \
+[Make a spiral](Python/Make%20a%20spiral.py) - 3 kyu
 
 <h4>4 kyu</h4>
 
@@ -33,7 +34,8 @@ In this repository i save copies of the katas i`ve completed.
 [A Chain adding function](Python/A%20Chain%20adding%20function.py) - 5 kyu \
 [Simple string expansion](Python/Simple%20string%20expansion.py) - 5 kyu \
 [Pete, the baker](Python/Pete,%20the%20baker.py) - 5 kyu \
-[Maximum subarray sum](Python/Maximum%20subarray%20sum.py) - 5 kyu
+[Maximum subarray sum](Python/Maximum%20subarray%20sum.py) - 5 kyu 
+
 
 <h4>6 kyu</h4>
 
