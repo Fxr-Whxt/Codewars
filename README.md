@@ -91,4 +91,5 @@ In this repository i save copies of the katas i`ve completed.
 
 
 
+Don`t copy as your own solution!!! 
 </div>
