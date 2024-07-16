@@ -91,5 +91,5 @@ In this repository i save copies of the katas i`ve completed.
 
 
 
-Don`t copy as your own solution!!! 
+Don`t copy as your own solution!!! thats will answer you how trully strong you are if you do that.
 </div>
