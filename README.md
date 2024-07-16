@@ -45,7 +45,7 @@ In this repository i save copies of the katas i`ve completed.
 [Create Phone Number](Python/Create%20Phone%20Number.py) - 6 kyu \
 [Who likes it?](Python/Who%20likes%20it?.py) - 6 kyu \
 [Alphabetized](Python/Alphabetized.py) - 6 kyu \
-[Find The Parity Outlier]() - 6 kyu
+[Find The Parity Outlier](Python/Find%20The%20Parity%20Outlier.py) - 6 kyu
 
 <h4>7 kyu</h4>
 
