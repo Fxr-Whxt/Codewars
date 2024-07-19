@@ -63,7 +63,8 @@ In this repository i save copies of the katas i`ve completed.
 [Vowel Count](Python/Vowel%20Count.py) - 7 kyu \
 [The Pony Express](Python/The%20Pony%20Express.py) - 7 kyu \
 [Alphabetical Addition](Python/Alphabetical%20Addition.py) - 7 kyu \
-[Get the Middle Character](Python/Get%20the%20Middle%20Character.py) -7 kyu
+[Get the Middle Character](Python/Get%20the%20Middle%20Character.py) - 7 kyu \
+[Credit Card Mask](Python/Credit%20Card%20Mask.py) - 7 kyu
 
 <h4>8 kyu</h4>
 
