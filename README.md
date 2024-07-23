@@ -86,6 +86,9 @@ In this repository i save copies of the katas i`ve completed.
 [Convert a Boolean to a String.py](Python/Convert%20a%20Boolean%20to%20a%20String.py) - 8 kyu
 
 ### SQL:
+<h4>5 kyu</h4>
+
+[Count IP Addresses](SQL/Count%20IP%20Addresses.sql) - 5 kyu
 
 <h4>8 kyu</h4>
 
