@@ -36,7 +36,8 @@ In this repository i save copies of the katas i`ve completed.
 [Simple string expansion](Python/Simple%20string%20expansion.py) - 5 kyu \
 [Pete, the baker](Python/Pete,%20the%20baker.py) - 5 kyu \
 [Maximum subarray sum](Python/Maximum%20subarray%20sum.py) - 5 kyu \
-[Human Readable Time](Python/Human%20Readable%20Time.py) - 5 kyu
+[Human Readable Time](Python/Human%20Readable%20Time.py) - 5 kyu \
+[Count IP Addresses](Python/Count%20IP%20Addresses.py) - 5 kyu
 
 
 <h4>6 kyu</h4>
