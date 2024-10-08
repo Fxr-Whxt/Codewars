@@ -91,6 +91,7 @@ In this repository i save copies of the katas i`ve completed.
 
 [Count IP Addresses](SQL/Count%20IP%20Addresses.sql) - 5 kyu
 
+
 <h4>8 kyu</h4>
 
 [Even or Odd](SQL/Even%20or%20Odd.sql) - 8 kyu \
