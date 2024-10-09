@@ -10,10 +10,6 @@ Courtesy of projecteuler.net (Problem 1)
 '''
 
 
-
-
-
-
 def solution(n):
     result = []
     for i in range(1, n):
