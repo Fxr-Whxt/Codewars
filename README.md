@@ -50,7 +50,7 @@ In this repository i save copies of the katas i`ve completed.
 [Alphabetized](Python/Alphabetized.py) - 6 kyu \
 [Find The Parity Outlier](Python/Find%20The%20Parity%20Outlier.py) - 6 kyu \
 [Even or Odd Accessor](Python/Even%20or%20Odd%20Accessor.py) - 6 kyu \
-[Multiples of 3 or 5](Python/Multiples%20of%203%20or%205.py) - 6 kyu
+[Multiples of 3 or 5](Python/Multiples%20of%203%20or%205.py) - 6 kyu 
 
 <h4>7 kyu</h4>
 
