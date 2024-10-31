@@ -107,7 +107,7 @@ In this repository i save copies of the katas i`ve completed.
 ### JS :
 
 
-here must be smth soon! 
+[Multiply](JS/Multiply.js) - 8 kyu 
 
 
 .
