@@ -106,9 +106,15 @@ In this repository i save copies of the katas i`ve completed.
 
 ### JS :
 
+<h4>7 kyu</h4>
+
+[Highest and Lowest](JS/Highest%20and%20Lowest.js) - 7 kyu
+
+<h4>8 kyu</h4>
 
 [Multiply](JS/Multiply.js) - 8 kyu \
-[Even or Odd](JS/Even%20or%20Odd.js) - 8 kyu
+[Even or Odd](JS/Even%20or%20Odd.js) - 8 kyu \
+
 
 
 .
