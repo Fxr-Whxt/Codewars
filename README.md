@@ -107,7 +107,8 @@ In this repository i save copies of the katas i`ve completed.
 ### JS :
 
 
-[Multiply](JS/Multiply.js) - 8 kyu 
+[Multiply](JS/Multiply.js) - 8 kyu \
+[Even or Odd](JS/Even%20or%20Odd.js) - 8 kyu
 
 
 .
