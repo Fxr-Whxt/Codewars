@@ -53,7 +53,8 @@ In this repository i save copies of the katas i`ve completed.
 [Find The Parity Outlier](Python/Find%20The%20Parity%20Outlier.py) - 6 kyu \
 [Even or Odd Accessor](Python/Even%20or%20Odd%20Accessor.py) - 6 kyu \
 [Multiples of 3 or 5](Python/Multiples%20of%203%20or%205.py) - 6 kyu \
-[Equal Sides Of An Array](Python/Equal%20Sides%20Of%20An%20Array.py) - 6 kyu 
+[Equal Sides Of An Array](Python/Equal%20Sides%20Of%20An%20Array.py) - 6 kyu \
+[Persistent Bugger.](Python/Persistent%20Bugger..py) - 6 kyu
 
 <h4>7 kyu</h4>
 
@@ -114,7 +115,7 @@ In this repository i save copies of the katas i`ve completed.
 <h4>8 kyu</h4>
 
 [Multiply](JS/Multiply.js) - 8 kyu \
-[Even or Odd](JS/Even%20or%20Odd.js) - 8 kyu 
+[Even or Odd](JS/Even%20or%20Odd.js) - 8 kyu \
 
 
 
