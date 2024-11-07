@@ -19,8 +19,10 @@ In this repository i save copies of the katas i`ve completed.
 ## List of completed katas:
 
 [Python](#python)
-[SQL](#sql)
-[JS](#js)
+
+[SQL](#sql) 
+
+[JS](#js) 
 
 ## Python:
 
