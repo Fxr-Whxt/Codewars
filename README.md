@@ -18,7 +18,7 @@ In this repository i save copies of the katas i`ve completed.
 
 ## List of completed katas:
 
-### Python:
+## Python:
 
 <h4>3 kyu<h4>
 
@@ -89,9 +89,18 @@ In this repository i save copies of the katas i`ve completed.
 [Square(n) Sum](Python/Square(n)%20Sum.py) - 8 kyu \
 [Multiply](Python/Multiply.py) - 8 kyu \
 [Even or Odd](Python/Even%20or%20Odd.py) - 8 kyu \
-[Convert a Boolean to a String.py](Python/Convert%20a%20Boolean%20to%20a%20String.py) - 8 kyu
+[Convert a Boolean to a String.py](Python/Convert%20a%20Boolean%20to%20a%20String.py) - 8 kyu 
 
-### SQL:
+
+
+
+
+
+
+
+
+## SQL
+
 <h4>5 kyu</h4>
 
 [Count IP Addresses](SQL/Count%20IP%20Addresses.sql) - 5 kyu
@@ -105,7 +114,13 @@ In this repository i save copies of the katas i`ve completed.
 
 
 
-### JS :
+
+
+
+
+
+
+## JS :
 
 <h4>6 kyu</h4>
 
