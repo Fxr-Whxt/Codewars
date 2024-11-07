@@ -18,6 +18,10 @@ In this repository i save copies of the katas i`ve completed.
 
 ## List of completed katas:
 
+[Python](#python)
+[SQL](#sql)
+[JS](#js)
+
 ## Python:
 
 <h4>3 kyu<h4>
@@ -120,7 +124,7 @@ In this repository i save copies of the katas i`ve completed.
 
 
 
-## JS :
+## JS 
 
 <h4>6 kyu</h4>
 
