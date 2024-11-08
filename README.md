@@ -142,7 +142,8 @@ In this repository i save copies of the katas i`ve completed.
 
 [Multiply](JS/Multiply.js) - 8 kyu \
 [Even or Odd](JS/Even%20or%20Odd.js) - 8 kyu \
-[Convert a Number to a String!](JS/Convert%20a%20Number%20to%20a%20String!.js) - 8 kyu
+[Convert a Number to a String!](JS/Convert%20a%20Number%20to%20a%20String!.js) - 8 kyu \
+[Return Negative](JS/Return%20Negative.js) - 8 kyu
 
 
 
