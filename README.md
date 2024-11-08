@@ -26,17 +26,17 @@ In this repository i save copies of the katas i`ve completed.
 
 ## Python:
 
-<h4>3 kyu<h4>
+### 3 kyu
 
 [Alphabetic Anagrams](Python/Alphabetic%20Anagrams.py) - 3 kyu \
 [Make a spiral](Python/Make%20a%20spiral.py) - 3 kyu
 
-<h4>4 kyu</h4>
+### 4 kyu
 
 [Roman numerals helper](Python/romannumeralshelper.py) - 4 kyu \
 [Don't give me five! Really!](Python/Don't%20give%20me%20five!%20Really!.py) - 4 kyu
 
-<h4>5 kyu</h4>
+### 5 kyu
 
 [A Chain adding function](Python/A%20Chain%20adding%20function.py) - 5 kyu \
 [Simple string expansion](Python/Simple%20string%20expansion.py) - 5 kyu \
@@ -47,8 +47,7 @@ In this repository i save copies of the katas i`ve completed.
 [RGB To Hex Conversion](Python/RGB%20To%20Hex%20Conversion.py) - 5 kyu
 
 
-
-<h4>6 kyu</h4>
+### 6 kyu
 
 [Your order, please](Python/Your%20order,%20please.py) - 6 kyu \
 [Counting Duplicates](Python/Counting%20Duplicates.py) - 6 kyu \
@@ -62,7 +61,8 @@ In this repository i save copies of the katas i`ve completed.
 [Equal Sides Of An Array](Python/Equal%20Sides%20Of%20An%20Array.py) - 6 kyu \
 [Persistent Bugger.](Python/Persistent%20Bugger..py) - 6 kyu
 
-<h4>7 kyu</h4>
+
+### 7 kyu
 
 [Highest and Lowest](Python/Highest%20and%20Lowest.py) - 7 kyu \
 [Sum of two lowest positive integers](Python/Sum%20of%20two%20lowest%20positive%20integers.py) - 7 kyu \
@@ -81,7 +81,7 @@ In this repository i save copies of the katas i`ve completed.
 [Count the divisors of a number](Python/Count%20the%20divisors%20of%20a%20number.py) - 7 kyu \
 [Mumbling](Python/Mumbling.py) - 7 kyu
 
-<h4>8 kyu</h4>
+### 8 kyu
 
 [Sum without highest and lowest number](Python/Sum%20without%20highest%20and%20lowest%20number.py) - 8 kyu \
 [Convert a Number to a String!](Python/Convert%20a%20Number%20to%20a%20String!.py) - 8 kyu \
@@ -107,12 +107,12 @@ In this repository i save copies of the katas i`ve completed.
 
 ## SQL
 
-<h4>5 kyu</h4>
+### 5 kyu
 
 [Count IP Addresses](SQL/Count%20IP%20Addresses.sql) - 5 kyu
 
 
-<h4>8 kyu</h4>
+### 8 kyu
 
 [Even or Odd](SQL/Even%20or%20Odd.sql) - 8 kyu \
 [Multiply](SQL/Multiply.sql) - 8 kyu 
@@ -128,17 +128,19 @@ In this repository i save copies of the katas i`ve completed.
 
 ## JS 
 
-<h4>6 kyu</h4>
+### 6 kyu
 
 [Persistent Bugger.](JS/Persistent%20Bugger..js) - 6 kyu
 
-<h4>7 kyu</h4>
+### 7 kyu
 
 [Highest and Lowest](JS/Highest%20and%20Lowest.js) - 7 kyu \
 [Descending Order](JS/Even%20or%20Odd.js) - 7 kyu \
 [Sum of two lowest positive integers](JS/Sum%20of%20two%20lowest%20positive%20integers.js) - 7 kyu
 
-<h4>8 kyu</h4>
+
+
+### 8 kyu
 
 [Multiply](JS/Multiply.js) - 8 kyu \
 [Even or Odd](JS/Even%20or%20Odd.js) - 8 kyu \
