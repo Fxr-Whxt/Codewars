@@ -136,7 +136,8 @@ In this repository i save copies of the katas i`ve completed.
 
 [Highest and Lowest](JS/Highest%20and%20Lowest.js) - 7 kyu \
 [Descending Order](JS/Even%20or%20Odd.js) - 7 kyu \
-[Sum of two lowest positive integers](JS/Sum%20of%20two%20lowest%20positive%20integers.js) - 7 kyu
+[Sum of two lowest positive integers](JS/Sum%20of%20two%20lowest%20positive%20integers.js) - 7 kyu \
+[Credit Card Mask](JS/Credit%20Card%20Mask.js) - 7 kyu
 
 
 
