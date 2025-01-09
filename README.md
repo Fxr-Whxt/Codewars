@@ -6,6 +6,8 @@
 
 In this repository i save copies of the katas i`ve completed. 
 
+
+
 ### My level:
 
 [![Badge](https://www.codewars.com/users/FxrWhxt/badges/large)](https://www.codewars.com/users/FxrWhxt)
@@ -84,8 +86,8 @@ In this repository i save copies of the katas i`ve completed.
 ### 8 kyu
 
 [Sum without highest and lowest number](Python/Sum%20without%20highest%20and%20lowest%20number.py) - 8 kyu \
-[Convert a Number to a String!](Python/Convert%20a%20Number%20to%20a%20String!.py) - 8 kyu \
-[Opposite number](Python/Opposite%20number.py) - 8 kyu \
+[Convert a Number to a String!](Python/Convert%20a%20Number%20to%20a%20S@github.comtring!.py) - 8 kyu \
+[Opposite number](Python/Opposite%20number.py) - 8 kyu \@github.com
 [Reversed Strings](Python/Reversed%20Strings.py) - 8 kyu \
 [Return Negative](Python/Return%20Negative.py) - 8 kyu \
 [Convert boolean values to strings 'Yes' or 'No'.](Python/Convert%20boolean%20values%20to%20strings%20'Yes'%20or%20'No'..py) - 8 kyu \
