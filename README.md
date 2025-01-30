@@ -97,7 +97,8 @@ In this repository i save copies of the katas i`ve completed.
 [Square(n) Sum](Python/Square(n)%20Sum.py) - 8 kyu \
 [Multiply](Python/Multiply.py) - 8 kyu \
 [Even or Odd](Python/Even%20or%20Odd.py) - 8 kyu \
-[Convert a Boolean to a String.py](Python/Convert%20a%20Boolean%20to%20a%20String.py) - 8 kyu 
+[Convert a Boolean to a String.py](Python/Convert%20a%20Boolean%20to%20a%20String.py) - 8 kyu \
+[Did she say hallo?](Python/Did%20she%20say%20hallo?.py) - 8 kyu 
 
 
 
