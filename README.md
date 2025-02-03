@@ -130,7 +130,8 @@ In this repository i save copies of the katas i`ve completed.
 ### 6 kyu
 
 [Persistent Bugger.](JS/Persistent%20Bugger..js) - 6 kyu \
-[Create Phone Number](JS/Create%20Phone%20Number.js) - 6 kyu
+[Create Phone Number](JS/Create%20Phone%20Number.js) - 6 kyu \
+[Evil Autocorrect Prank](JS/Evil%20Autocorrect%20Prank.js) - 6 kyu
 
 ### 7 kyu
 
