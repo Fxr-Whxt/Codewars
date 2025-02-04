@@ -24,7 +24,15 @@ In this repository i save copies of the katas i`ve completed.
 
 [SQL](#sql) 
 
-[JS](#js) 
+[JS](#js)  
+
+## Status:
+
+Python - 4 kyu
+
+JS - 7 kyu
+
+SQL - 7 kyu
 
 ## Python:
 
