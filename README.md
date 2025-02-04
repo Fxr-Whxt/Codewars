@@ -120,6 +120,9 @@ SQL - 7 kyu
 
 [Count IP Addresses](SQL/Count%20IP%20Addresses.sql) - 5 kyu
 
+### 7 kyu 
+
+[Sum of odd numbers](SQL/Sum%20of%20odd%20numbers.sql) - 7 kyu
 
 ### 8 kyu
 
