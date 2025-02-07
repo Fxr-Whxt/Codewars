@@ -69,7 +69,8 @@ SQL - 7 kyu
 [Even or Odd Accessor](Python/Even%20or%20Odd%20Accessor.py) - 6 kyu \
 [Multiples of 3 or 5](Python/Multiples%20of%203%20or%205.py) - 6 kyu \
 [Equal Sides Of An Array](Python/Equal%20Sides%20Of%20An%20Array.py) - 6 kyu \
-[Persistent Bugger.](Python/Persistent%20Bugger..py) - 6 kyu
+[Persistent Bugger.](Python/Persistent%20Bugger..py) - 6 kyu \
+[Sum of Digits / Digital Root](Python/Sum%20of%20Digits%20%20Digital%20Root.py) - 6 kyu
 
 
 ### 7 kyu
