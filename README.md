@@ -91,7 +91,8 @@ SQL - 7 kyu
 [Credit Card Mask](Python/Credit%20Card%20Mask.py) - 7 kyu \
 [Count the divisors of a number](Python/Count%20the%20divisors%20of%20a%20number.py) - 7 kyu \
 [Mumbling](Python/Mumbling.py) - 7 kyu \
-[Square Every Digit](Python/Square%20Every%20Digit.py) - 7 kyu
+[Square Every Digit](Python/Square%20Every%20Digit.py) - 7 kyu \
+[No ifs no buts](Python/No%20ifs%20no%20buts.py) - 7 kyu
 
 ### 8 kyu
 
