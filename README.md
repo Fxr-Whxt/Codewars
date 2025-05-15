@@ -113,7 +113,7 @@ SQL - 7 kyu
 [Find the smallest integer in the array](Python/Find%20the%20smallest%20integer%20in%20the%20array.py) - 8 kyu \
 [You only need one - Beginner](Python/You%20only%20need%20one%20-%20Beginner.py) - 8 kyu \
 [Student's Final Grade](Python/Student's%20Final%20Grade.py) - 8 kyu \
-[Find the smallest integer in the array](Python) - 8 kyu
+[Generate user links](Python/Generate%20user%20links.py) - 8 kyu
 
 
 
