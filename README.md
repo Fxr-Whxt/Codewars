@@ -43,35 +43,36 @@ SQL - 7 kyu
 
 ### 4 kyu
 
-[Roman numerals helper](Python/romannumeralshelper.py) - 4 kyu \
 [Don't give me five! Really!](Python/Don't%20give%20me%20five!%20Really!.py) - 4 kyu
+[Roman numerals helper](Python/romannumeralshelper.py) - 4 kyu \
+
 
 ### 5 kyu
 
 [A Chain adding function](Python/A%20Chain%20adding%20function.py) - 5 kyu \
-[Simple string expansion](Python/Simple%20string%20expansion.py) - 5 kyu \
+[Count IP Addresses](Python/Count%20IP%20Addresses.py) - 5 kyu \
+[Human Readable Time](Python/Human%20Readable%20Time.py) - 5 kyu \
 [Pete, the baker](Python/Pete,%20the%20baker.py) - 5 kyu \
 [Maximum subarray sum](Python/Maximum%20subarray%20sum.py) - 5 kyu \
-[Human Readable Time](Python/Human%20Readable%20Time.py) - 5 kyu \
-[Count IP Addresses](Python/Count%20IP%20Addresses.py) - 5 kyu \
-[RGB To Hex Conversion](Python/RGB%20To%20Hex%20Conversion.py) - 5 kyu
+[RGB To Hex Conversion](Python/RGB%20To%20Hex%20Conversion.py) - 5 kyu \
+[Simple string expansion](Python/Simple%20string%20expansion.py) - 5 kyu 
 
 
 ### 6 kyu
 
-[Your order, please](Python/Your%20order,%20please.py) - 6 kyu \
-[Counting Duplicates](Python/Counting%20Duplicates.py) - 6 kyu \
-[Stop gninnipS My sdroW!](Python/Stop%20gninnipS%20My%20sdroW!.py) 6 kyu \
-[Create Phone Number](Python/Create%20Phone%20Number.py) - 6 kyu \
-[Who likes it?](Python/Who%20likes%20it?.py) - 6 kyu \
 [Alphabetized](Python/Alphabetized.py) - 6 kyu \
-[Find The Parity Outlier](Python/Find%20The%20Parity%20Outlier.py) - 6 kyu \
+[Counting Duplicates](Python/Counting%20Duplicates.py) - 6 kyu \
+[Create Phone Number](Python/Create%20Phone%20Number.py) - 6 kyu \
 [Even or Odd Accessor](Python/Even%20or%20Odd%20Accessor.py) - 6 kyu \
-[Multiples of 3 or 5](Python/Multiples%20of%203%20or%205.py) - 6 kyu \
 [Equal Sides Of An Array](Python/Equal%20Sides%20Of%20An%20Array.py) - 6 kyu \
+[Find the odd int](Python/Find%20the%20odd%20int.py) - 6 kyu \
+[Find The Parity Outlier](Python/Find%20The%20Parity%20Outlier.py) - 6 kyu \
+[Multiples of 3 or 5](Python/Multiples%20of%203%20or%205.py) - 6 kyu \
 [Persistent Bugger.](Python/Persistent%20Bugger..py) - 6 kyu \
 [Sum of Digits / Digital Root](Python/Sum%20of%20Digits%20%20Digital%20Root.py) - 6 kyu \
-[Find the odd int](Python/Find%20the%20odd%20int.py) - 6 kyu
+[Stop gninnipS My sdroW!](Python/Stop%20gninnipS%20My%20sdroW!.py) 6 kyu \
+[Who likes it?](Python/Who%20likes%20it?.py) - 6 kyu \
+[Your order, please](Python/Your%20order,%20please.py) - 6 kyu 
 
 
 ### 7 kyu
