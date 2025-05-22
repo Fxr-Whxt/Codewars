@@ -43,8 +43,8 @@ SQL - 7 kyu
 
 ### 4 kyu
 
-[Don't give me five! Really!](Python/Don't%20give%20me%20five!%20Really!.py) - 4 kyu
-[Roman numerals helper](Python/romannumeralshelper.py) - 4 kyu \
+[Don't give me five! Really!](Python/Don't%20give%20me%20five!%20Really!.py) - 4 kyu \
+[Roman numerals helper](Python/romannumeralshelper.py) - 4 kyu 
 
 
 ### 5 kyu
@@ -77,45 +77,60 @@ SQL - 7 kyu
 
 ### 7 kyu
 
-[Highest and Lowest](Python/Highest%20and%20Lowest.py) - 7 kyu \
-[Sum of two lowest positive integers](Python/Sum%20of%20two%20lowest%20positive%20integers.py) - 7 kyu \
-[You're a square!](Python/You're%20a%20square!.py) - 7 kyu \
-[Exes and Ohs](Python/Exes%20and%20Ohs.py) - 7 kyu \
-[Shortest Word](Python/Shortest%20Word.py) - 7 kyu \
-[Isograms](Python/Isograms.py) - 7 kyu \
-[Descending Order](Python/Descending%20Order.py) - 7 kyu \
-[Disemvowel Trolls](Python/Disemvowel%20Trolls.py) - 7 kyu \
-[List Filtering](Python/List%20Filtering.py) - 7 kyu \
-[Vowel Count](Python/Vowel%20Count.py) - 7 kyu \
-[The Pony Express](Python/The%20Pony%20Express.py) - 7 kyu \
 [Alphabetical Addition](Python/Alphabetical%20Addition.py) - 7 kyu \
-[Get the Middle Character](Python/Get%20the%20Middle%20Character.py) - 7 kyu \
 [Credit Card Mask](Python/Credit%20Card%20Mask.py) - 7 kyu \
 [Count the divisors of a number](Python/Count%20the%20divisors%20of%20a%20number.py) - 7 kyu \
+[Descending Order](Python/Descending%20Order.py) - 7 kyu \
+[Disemvowel Trolls](Python/Disemvowel%20Trolls.py) - 7 kyu \
+[Exes and Ohs](Python/Exes%20and%20Ohs.py) - 7 kyu \
+[Get the Middle Character](Python/Get%20the%20Middle%20Character.py) - 7 kyu \
+[Highest and Lowest](Python/Highest%20and%20Lowest.py) - 7 kyu \
+[Isograms](Python/Isograms.py) - 7 kyu \
+[List Filtering](Python/List%20Filtering.py) - 7 kyu \
 [Mumbling](Python/Mumbling.py) - 7 kyu \
+[No ifs no buts](Python/No%20ifs%20no%20buts.py) - 7 kyu \
+[Sum of two lowest positive integers](Python/Sum%20of%20two%20lowest%20positive%20integers.py) - 7 kyu \
+[Shortest Word](Python/Shortest%20Word.py) - 7 kyu \
 [Square Every Digit](Python/Square%20Every%20Digit.py) - 7 kyu \
-[No ifs no buts](Python/No%20ifs%20no%20buts.py) - 7 kyu
+[The Pony Express](Python/The%20Pony%20Express.py) - 7 kyu \
+[Vowel Count](Python/Vowel%20Count.py) - 7 kyu \
+[You're a square!](Python/You're%20a%20square!.py) - 7 kyu \
+
+
+
+
 
 ### 8 kyu
 
-[Sum without highest and lowest number](Python/Sum%20without%20highest%20and%20lowest%20number.py) - 8 kyu \
+
 [Convert a Number to a String!](Python/Convert%20a%20Number%20to%20a%20S@github.comtring!.py) - 8 kyu \
-[Opposite number](Python/Opposite%20number.py) - 8 kyu \@github.com
-[Reversed Strings](Python/Reversed%20Strings.py) - 8 kyu \
-[Return Negative](Python/Return%20Negative.py) - 8 kyu \
 [Convert boolean values to strings 'Yes' or 'No'.](Python/Convert%20boolean%20values%20to%20strings%20'Yes'%20or%20'No'..py) - 8 kyu \
-[Sum of positive](Python/Sum%20of%20positive.py) - 8 kyu \
-[String repeat](Python/String%20repeat.py) - 8 kyu  \
-[Remove First and Last Character](Python/Remove%20First%20and%20Last%20Character.py) - 8 kyu \
-[Square(n) Sum](Python/Square(n)%20Sum.py) - 8 kyu \
-[Multiply](Python/Multiply.py) - 8 kyu \
-[Even or Odd](Python/Even%20or%20Odd.py) - 8 kyu \
 [Convert a Boolean to a String.py](Python/Convert%20a%20Boolean%20to%20a%20String.py) - 8 kyu \
 [Did she say hallo?](Python/Did%20she%20say%20hallo?.py) - 8 kyu \
+[Even or Odd](Python/Even%20or%20Odd.py) - 8 kyu \
 [Find the smallest integer in the array](Python/Find%20the%20smallest%20integer%20in%20the%20array.py) - 8 kyu \
-[You only need one - Beginner](Python/You%20only%20need%20one%20-%20Beginner.py) - 8 kyu \
+[Generate user links](Python/Generate%20user%20links.py) - 8 kyu \
+[Multiply](Python/Multiply.py) - 8 kyu \
+[Opposite number](Python/Opposite%20number.py) - 8 kyu \
+[Reversed Strings](Python/Reversed%20Strings.py) - 8 kyu \
+[Return Negative](Python/Return%20Negative.py) - 8 kyu \
+[Remove First and Last Character](Python/Remove%20First%20and%20Last%20Character.py) - 8 kyu \
+[Sum without highest and lowest number](Python/Sum%20without%20highest%20and%20lowest%20number.py) - 8 kyu \
+[Sum of positive](Python/Sum%20of%20positive.py) - 8 kyu \
+[String repeat](Python/String%20repeat.py) - 8 kyu  \
 [Student's Final Grade](Python/Student's%20Final%20Grade.py) - 8 kyu \
-[Generate user links](Python/Generate%20user%20links.py) - 8 kyu
+[Square(n) Sum](Python/Square(n)%20Sum.py) - 8 kyu \
+[You only need one - Beginner](Python/You%20only%20need%20one%20-%20Beginner.py) - 8 kyu 
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -149,25 +164,30 @@ SQL - 7 kyu
 
 ### 6 kyu
 
-[Persistent Bugger.](JS/Persistent%20Bugger..js) - 6 kyu \
+
 [Create Phone Number](JS/Create%20Phone%20Number.js) - 6 kyu \
-[Evil Autocorrect Prank](JS/Evil%20Autocorrect%20Prank.js) - 6 kyu
+[Evil Autocorrect Prank](JS/Evil%20Autocorrect%20Prank.js) - 6 kyu \
+[Persistent Bugger.](JS/Persistent%20Bugger..js) - 6 kyu 
+
 
 ### 7 kyu
 
-[Highest and Lowest](JS/Highest%20and%20Lowest.js) - 7 kyu \
-[Descending Order](JS/Even%20or%20Odd.js) - 7 kyu \
-[Sum of two lowest positive integers](JS/Sum%20of%20two%20lowest%20positive%20integers.js) - 7 kyu \
 [Credit Card Mask](JS/Credit%20Card%20Mask.js) - 7 kyu \
-[Merge two arrays](JS/Merge%20two%20arrays.js) - 7 kyu 
+[Descending Order](JS/Even%20or%20Odd.js) - 7 kyu \
+[Highest and Lowest](JS/Highest%20and%20Lowest.js) - 7 kyu \
+[Merge two arrays](JS/Merge%20two%20arrays.js) - 7 kyu \
+[Sum of two lowest positive integers](JS/Sum%20of%20two%20lowest%20positive%20integers.js) - 7 kyu 
+
+
 
 
 
 ### 8 kyu
 
-[Multiply](JS/Multiply.js) - 8 kyu \
-[Even or Odd](JS/Even%20or%20Odd.js) - 8 kyu \
+
 [Convert a Number to a String!](JS/Convert%20a%20Number%20to%20a%20String!.js) - 8 kyu \
+[Even or Odd](JS/Even%20or%20Odd.js) - 8 kyu \
+[Multiply](JS/Multiply.js) - 8 kyu \
 [Return Negative](JS/Return%20Negative.js) - 8 kyu
 
 
