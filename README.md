@@ -51,6 +51,7 @@ SQL - 7 kyu
 
 [A Chain adding function](Python/A%20Chain%20adding%20function.py) - 5 kyu \
 [Count IP Addresses](Python/Count%20IP%20Addresses.py) - 5 kyu \
+[Calculating with Functions](Python/Calculating%20with%20Functions.py) - 5 kyu \
 [Human Readable Time](Python/Human%20Readable%20Time.py) - 5 kyu \
 [Pete, the baker](Python/Pete,%20the%20baker.py) - 5 kyu \
 [Maximum subarray sum](Python/Maximum%20subarray%20sum.py) - 5 kyu \
