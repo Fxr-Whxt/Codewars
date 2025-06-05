@@ -73,6 +73,7 @@ SQL - 7 kyu
 [Persistent Bugger.](Python/Persistent%20Bugger..py) - 6 kyu \
 [Sum of Digits / Digital Root](Python/Sum%20of%20Digits%20%20Digital%20Root.py) - 6 kyu \
 [Stop gninnipS My sdroW!](Python/Stop%20gninnipS%20My%20sdroW!.py) 6 kyu \
+[Seven "ate" nine!](Python/Seven%20"ate"%20nine!.py) - 6 kyu \
 [Who likes it?](Python/Who%20likes%20it?.py) - 6 kyu \
 [Your order, please](Python/Your%20order,%20please.py) - 6 kyu 
 
