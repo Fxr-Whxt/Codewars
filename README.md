@@ -55,7 +55,7 @@ SQL - 7 kyu
 [Human Readable Time](Python/Human%20Readable%20Time.py) - 5 kyu \
 [Pete, the baker](Python/Pete,%20the%20baker.py) - 5 kyu \
 [Maximum subarray sum](Python/Maximum%20subarray%20sum.py) - 5 kyu \
-[Maximum Subarray Sum II](Python) - 5 kyu \
+[Maximum Subarray Sum II](Python/Maximum%20Subarray%20Sum%20II.py) - 5 kyu \
 [RGB To Hex Conversion](Python/RGB%20To%20Hex%20Conversion.py) - 5 kyu \
 [Simple string expansion](Python/Simple%20string%20expansion.py) - 5 kyu 
 
