@@ -63,6 +63,7 @@ SQL - 7 kyu
 ### 6 kyu
 
 [Alphabetized](Python/Alphabetized.py) - 6 kyu \
+[Array.diff](Python/Array_diff.py) - 6 kyu \
 [Counting Duplicates](Python/Counting%20Duplicates.py) - 6 kyu \
 [Create Phone Number](Python/Create%20Phone%20Number.py) - 6 kyu \
 [Even or Odd Accessor](Python/Even%20or%20Odd%20Accessor.py) - 6 kyu \
