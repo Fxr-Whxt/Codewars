@@ -90,6 +90,7 @@ SQL - 7 kyu
 [Get the Middle Character](Python/Get%20the%20Middle%20Character.py) - 7 kyu \
 [Highest and Lowest](Python/Highest%20and%20Lowest.py) - 7 kyu \
 [Isograms](Python/Isograms.py) - 7 kyu \
+[Jaden Casing Strings](Python)
 [List Filtering](Python/List%20Filtering.py) - 7 kyu \
 [Mumbling](Python/Mumbling.py) - 7 kyu \
 [No ifs no buts](Python/No%20ifs%20no%20buts.py) - 7 kyu \
