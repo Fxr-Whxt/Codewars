@@ -125,7 +125,8 @@ SQL - 7 kyu
 [String repeat](Python/String%20repeat.py) - 8 kyu  \
 [Student's Final Grade](Python/Student's%20Final%20Grade.py) - 8 kyu \
 [Square(n) Sum](Python/Square(n)%20Sum.py) - 8 kyu \
-[You only need one - Beginner](Python/You%20only%20need%20one%20-%20Beginner.py) - 8 kyu 
+[You only need one - Beginner](Python/You%20only%20need%20one%20-%20Beginner.py) - 8 kyu \
+[Grasshopper - Summation](Python/Grasshopper%20-%20Summation.py) - 8 kyu
 
 
 
