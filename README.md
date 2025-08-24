@@ -44,7 +44,9 @@ SQL - 7 kyu
 ### 4 kyu
 
 [Don't give me five! Really!](Python/Don't%20give%20me%20five!%20Really!.py) - 4 kyu \
+[Human readable duration format](Python/Human%20readable%20duration%20format.py) - 4 kyu \
 [Roman numerals helper](Python/romannumeralshelper.py) - 4 kyu 
+
 
 
 ### 5 kyu
