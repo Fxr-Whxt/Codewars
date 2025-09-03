@@ -119,6 +119,7 @@ SQL - 7 kyu
 [Find the smallest integer in the array](Python/Find%20the%20smallest%20integer%20in%20the%20array.py) - 8 kyu \
 [Generate user links](Python/Generate%20user%20links.py) - 8 kyu \
 [Multiply](Python/Multiply.py) - 8 kyu \
+[Name Your Python!](Python/Name%20Your%20Python!.py) - 8 kyu \
 [Opposite number](Python/Opposite%20number.py) - 8 kyu \
 [Reversed Strings](Python/Reversed%20Strings.py) - 8 kyu \
 [Return Negative](Python/Return%20Negative.py) - 8 kyu \ 
