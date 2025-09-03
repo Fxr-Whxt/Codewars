@@ -122,7 +122,7 @@ SQL - 7 kyu
 [Name Your Python!](Python/Name%20Your%20Python!.py) - 8 kyu \
 [Opposite number](Python/Opposite%20number.py) - 8 kyu \
 [Reversed Strings](Python/Reversed%20Strings.py) - 8 kyu \
-[Return Negative](Python/Return%20Negative.py) - 8 kyu \ 
+[Return Negative](Python/Return%20Negative.py) - 8 kyu  
 [Remove String Spaces](Python/Remove%20String%20Spaces.py) - 8 kyu \
 [Remove First and Last Character](Python/Remove%20First%20and%20Last%20Character.py) - 8 kyu \
 [Sum without highest and lowest number](Python/Sum%20without%20highest%20and%20lowest%20number.py) - 8 kyu \
