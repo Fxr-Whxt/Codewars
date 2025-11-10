@@ -28,13 +28,17 @@ In this repository i save copies of the katas i`ve completed.
 
 ## Status:
 
-Python - 4 kyu
+Python - 3 kyu
 
 JS - 7 kyu
 
 SQL - 7 kyu
 
 ## Python:
+ 
+### 1 kyu
+
+[BECOME IMMORTAL](Python/BECOME%20IMMORTAL.py)
 
 ### 3 kyu
 
