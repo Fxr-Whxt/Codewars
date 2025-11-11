@@ -116,6 +116,7 @@ SQL - 7 kyu
 
 
 [Convert a Number to a String!](Python/Convert%20a%20Number%20to%20a%20S@github.comtring!.py) - 8 kyu \
+[Convert a String to a Number!](Python/Convert%20a%20String%20to%20a%20Number!.py) - 8 kyu \
 [Convert boolean values to strings 'Yes' or 'No'.](Python/Convert%20boolean%20values%20to%20strings%20'Yes'%20or%20'No'..py) - 8 kyu \
 [Convert a Boolean to a String.py](Python/Convert%20a%20Boolean%20to%20a%20String.py) - 8 kyu \
 [Did she say hallo?](Python/Did%20she%20say%20hallo?.py) - 8 kyu \
