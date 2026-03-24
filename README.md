@@ -103,6 +103,7 @@ SQL - 7 kyu
 [Pairs of integers from 0 to n](Python/Pairs%20of%20integers%20from%200%20to%20n.py) - 7 kyu \
 [Sum of two lowest positive integers](Python/Sum%20of%20two%20lowest%20positive%20integers.py) - 7 kyu \
 [Shortest Word](Python/Shortest%20Word.py) - 7 kyu \
+[String ends with?](Python/String%20ends%20with?.py) - 7 kyu \
 [Square Every Digit](Python/Square%20Every%20Digit.py) - 7 kyu \
 [The Pony Express](Python/The%20Pony%20Express.py) - 7 kyu \
 [Vowel Count](Python/Vowel%20Count.py) - 7 kyu \
