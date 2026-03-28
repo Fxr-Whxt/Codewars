@@ -40,6 +40,14 @@ SQL - 7 kyu
 
 [BECOME IMMORTAL](Python/BECOME%20IMMORTAL.py)
 
+
+
+
+### 2 kyu
+
+[Evaluate mathematical expression](Python/Evaluate%20mathematical%20expression.py) - 2 kyu 
+
+
 ### 3 kyu
 
 [Alphabetic Anagrams](Python/Alphabetic%20Anagrams.py) - 3 kyu \
